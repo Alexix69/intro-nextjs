@@ -1,0 +1,16 @@
+.ingredients{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.ingredient {
+    max-width: 300px;
+    padding: 10px;
+}
+
+.ingredientInfo{
+    display: flex;
+    justify-content: space-between;
+}
